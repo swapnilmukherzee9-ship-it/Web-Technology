@@ -1,0 +1,18 @@
+<html>
+<head>
+  <title>Numbers 1 to 10</title>
+</head>
+<body>
+  <p style="color:red;">1</p>
+  <p style="color:orange;">2</p>
+  <p style="color:yellow;">3</p>
+  <p style="color:green;">4</p>
+  <p style="color:blue;">5</p>
+  <p style="color:red;">6</p>
+  <p style="color:violet;">7</p>
+  <p style="color:brown;">8</p>
+  <p style="color:black;">9</p>
+  <p style="color:teal;">10</p>
+</body>
+</html>
+
