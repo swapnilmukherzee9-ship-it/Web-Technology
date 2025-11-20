@@ -1,0 +1,12 @@
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://cdn.togetherv.com/beautiful-glass-bouquet-flower-arrangement-sub-1_1655114039.webp');
+</style>
+</head>
+<body>
+  <h1>Welcome to My Webpage</h1>
+  <p>This page has a background image.</p>
+</body>
+</html>
