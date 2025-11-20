@@ -1,0 +1,14 @@
+<html>
+<head>
+  <title>Different Fonts Example</title>
+</head>
+<body>
+  <p>
+    <font style="font-family: Georgia;">This is the first sentence in Georgia.</font><br>
+    <font style="font-family: Arial;"> This is the second sentence in Arial.</font><br>  
+    <font style="font-family: Courier New;"> This is the third sentence in Courier New.</font><br>
+    <font style="font-family: Verdana;"> This is the fourth sentence in Verdana.</font><br>
+    <font style="font-family: Times New Roman;"> This is the fifth sentence in Times New Roman.</font>
+  </p>
+</body>
+</html>
