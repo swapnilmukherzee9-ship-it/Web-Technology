@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Image Example</title>
+</head>
+<body>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZNmK79w2B_VDv_4b-XTQ2FelCXyEIwKjrw&s" 
+     width="200" 
+     height="200" 
+     border="2" 
+     hspace="20" 
+     vspace="20" 
+     align="right" 
+     alt="Example Image">
+
+<p>
+This is an example paragraph showing how an image can be displayed 
+on the right side of the screen with some horizontal and vertical 
+space. The text will flow around the image.
+</p>
+
+</body>
+</html>
