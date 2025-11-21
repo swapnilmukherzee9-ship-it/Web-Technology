@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>My Home Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            margin: 50px;
+        }  
+img {
+            display: block;
+            margin: 20px auto;
+            border-radius: 10px;
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+<h1>Welcome to My Home Page</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwrcBAZk1J_5xWxG5-Qfvjik_HMaL73kYaOMsww-V9Nw&s" alt="My Photo">
+
+        <h2>About Me</h2>
+        <p>Hello! My name is <b>Swapnil Mukherzee</b>. I am a BCA student focusing on <b>Cybersecurity</b>. 
+           I love learning about ethical hacking, networking, and web development.</p>
+
+        <h2>My Hobbies</h2>
+        <p>I enjoy reading tech blogs, playing chess, and experimenting with coding projects.</p>
+
+    <h2>Contact</h2>
+    <p>You can reach me at: <a href="mailto:swapnil@example.com">swapnil@example.com</a></p>
+    <p>Visit my <a href="https://github.com/" target="_blank">GitHub Profile</a> for my latest projects.</p>
+    
+</body>
+</html>
