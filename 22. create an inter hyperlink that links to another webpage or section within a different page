@@ -1,0 +1,11 @@
+<html>
+<head>
+    <title>Inter Hyperlink Example</title>
+</head>
+<body>
+    <h1>My Home Page</h1>
+    <p>Click below to visit my blog on another page:</p>
+
+    <a href="https://www.example.com/blog.html" target="_blank">Visit My Blog</a>
+</body>
+</html>
