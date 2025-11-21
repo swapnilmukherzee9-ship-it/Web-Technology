@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MCA Subjects</title>
+</head>
+<body>
+<h3>MCA 1st Semester</h3>
+<ul>
+    <li>C Programming</li>
+    <li>Data Structures</li>
+    <li>DBMS</li>
+    <li>Computer Organization</li>
+</ul>
+<h3>MCA 2nd Semester</h3>
+<ol type= "A">
+    <li>Operating System</li>
+    <li>OOP using C++</li>
+    <li>Software Engineering</li>
+    <li>Web Technologies</li>
+</ol>
+<h3>MCA 3rd Semester</h3>
+<dl>
+    <dt>Java</dt>
+    <dd>Object-oriented programming.</dd>
+    <dt>AI</dt>
+    <dd>Basics of Artificial Intelligence.</dd>
+    <dt>Cyber Security</dt>
+    <dd>Protecting data and networks.</dd>
+</dl>
+</body>
+</html>
+
