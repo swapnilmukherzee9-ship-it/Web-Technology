@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Frameset Example</title>
+</head>
+<frameset cols="30%,*">
+<frame name="left" srcdoc="
+        <h3>Menu</h3>
+        <ul>
+            <li><a href='#' target='right'>Home</a></li>
+            <li><a href='#' target='right'>About</a></li>
+            <li><a href='#' target='right'>Contact</a></li>
+        </ul>
+        <p>Scrollable content...</p>
+        <p>1</p><p>2</p><p>3</p><p>4</p><p>5</p><p>6</p>
+    " scrolling='auto'>
+
+    <frame name="right" srcdoc="
+        <h2>Welcome!</h2>
+        <p>This is the main content area.</p>
+        <p>Scroll down for more content...</p>
+        <p>Line 1</p><p>Line 2</p><p>Line 3</p><p>Line 4</p><p>Line 5</p>
+    " scrolling='auto'>
+</frameset>
+<noframes>
+    <body>Your browser does not support frames.</body>
+</noframes>
+</html>
+
