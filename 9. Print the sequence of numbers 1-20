@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Number Sequence</title>
+</head>
+<body>
+<h2>Sequence of Numbers (1–20)</h2>
+
+<p>1<sub>2</sub> = 2</p>
+<p>2<sub>2</sub> = 4</p>
+<p>3<sub>2</sub> = 6</p>
+<p>4<sub>2</sub> = 8</p>
+<p>5<sub>2</sub> = 10</p>
+<p>6<sub>2</sub> = 12</p>
+<p>7<sub>2</sub> = 14</p>
+<p>8<sub>2</sub> = 16</p>
+<p>9<sub>2</sub> = 18</p>
+<p>10<sub>2</sub> = 20</p>
+<p>11<sub>2</sub> = 22</p>
+<p>12<sub>2</sub> = 24</p>
+<p>13<sub>2</sub> = 26</p>
+<p>14<sub>2</sub> = 28</p>
+<p>15<sub>2</sub> = 30</p>
+<p>16<sub>2</sub> = 32</p>
+<p>17<sub>2</sub> = 34</p>
+<p>18<sub>2</sub> = 36</p>
+<p>19<sub>2</sub> = 38</p>
+<p>20<sub>2</sub> = 40</p>
+</body>
+</html>
+
