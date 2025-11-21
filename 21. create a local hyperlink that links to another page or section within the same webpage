@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Local Hyperlink Example</title>
+</head>
+<body>
+  <h1>Welcome to My Webpage</h1>
+    <p>Click the link below to go to the About section:</p>
+    <a href="#about">Go to About Section</a>
+    <h2 id="about">About Section</h2>
+    <p>This is the About section of the webpage. You reached here using a local hyperlink!</p>
+    <a href="#top">Back to Top</a>
+</body>
+</html>
