@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Centered Heading and Image</title>
+<style>
+  body {
+    text-align: center;   
+    background-color: #f9f9f9;    
+    font-family: Arial;
+  }
+   img {
+    width: 300px;
+    height: auto;   
+    margin-top: 20px;
+    border: 2px solid #555;  
+  }
+</style>
+</head>
+<body>
+
+<h1>My Favorite Image</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIVj4HWNzqH1KLU9kvgaCjCeeWvPnvz48zHw&s" alt="Centered Image">
+</body>
+</html>
